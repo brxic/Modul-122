@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Hallo Welt!
+echo Hallo Welt Gaggi!
