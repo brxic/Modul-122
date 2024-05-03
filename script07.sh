@@ -1,6 +1,6 @@
 #!/bin/bash
 # Name:         script07.sh
-# Aufruf:       script07.sh <Dateiname>
+# Aufruf:       script07.sh <Quelldatei> <Zieldatei>
 # Beschreibung: Es wird überprüft ob die Zieldatei vorhanden ist, wenn ja dann wird die Quelldatei dorthin kopiert
 # Autor:        Basil Ramseyer
 # Version:      1.0
