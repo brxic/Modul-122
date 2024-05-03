@@ -1,6 +1,6 @@
 #!/bin/bash
 # Name:         script05.sh
-# Aufruf:       ./<scriptname> <gewünschter Unterordnername>
+# Aufruf:       script05.sh <gewünschter Unterordnername>
 # Beschreibung: kopiert Dateien von einem File ins andere
 # Autor:        Basil Ramseyer
 # Version:      1.0
