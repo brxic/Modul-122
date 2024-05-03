@@ -23,6 +23,3 @@ if [ $zahl1 -gt $zahl2 ]; then
     zahl1=$zahl2
     zahl2=$temp
 fi
-
-# Gib die sortierten Zahlen aus
-echo "Die sortierten Zahlen sind: $zahl1 $zahl2"
