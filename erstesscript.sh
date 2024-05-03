@@ -1,7 +1,6 @@
 #!/bin/bash
 
-echo Hallo Welt!
 
-echo $1
+echo $HOSTNAME
 
-echo $2
+echo $LANGUAGE
