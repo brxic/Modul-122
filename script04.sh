@@ -1,6 +1,6 @@
 #!/bin/bash
 # Name:         script04.sh
-# Aufruf:       ./script04.sh 8 3 
+# Aufruf:       script04.sh zahl1 zahl2
 # Beschreibung: Es vergleicht 2 Zahlen und sortiert sie der grösse nach vom kleinsten zum grössten
 # Autor:        Basil Ramseyer
 # Version:      1.0
