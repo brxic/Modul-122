@@ -8,8 +8,8 @@
 # Version:      1.0
 # Datum:        03.05.24
 
-wert="Basel"
-if test "$wert" = "Bern"
+wert=$1
+if [ $wert == "Bern" ]
 then 
   echo "der Vergleich ist korrekt"
 else
